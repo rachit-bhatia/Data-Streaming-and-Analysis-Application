@@ -10,7 +10,7 @@ Tasks done:
 ### Usage Guide
 1. Run the MongoDB setup and querying tasks:
    
-    Open and execute the Data Model_MongoDB Queries.ipynb notebook to:
+    Open and execute the [Data Model_MongoDB Queries.ipynb](./Data%20Model_MongoDB%20Queries.ipynb) notebook to:
   	- Study the designe data model.
     - Load the historic data into MongoDB.
   	- Run analytical queries on the database.
@@ -18,17 +18,17 @@ Tasks done:
 2.	Stream data using Kafka producers:
 
     Execute the following notebooks to start the Kafka producers:
-    - Kafka Data Producer 1.ipynb
-    - Kafka Data Producer 2.ipynb
-    - Kafka Data Producer 3.ipynb
+    - [Kafka Data Producer 1.ipynb](./Kafka%20Data%20Producer%201.ipynb)
+    - [Kafka Data Producer 2.ipynb](./Kafka%20Data%20Producer%202.ipynb)
+    - [Kafka Data Producer 3.ipynb](./Kafka%20Data%20Producer%203.ipynb)
 
 4.	Process streaming data with Spark:
 
-    Run Spark Streaming Application.ipynb to process the data streams, merge duplicate records, and store the results in MongoDB.
+    Run [Spark Streaming Application.ipynb](./Spark%20Streaming%20Application.ipynb) to process the data streams, merge duplicate records, and store the results in MongoDB.
 
 5.	Visualize the data:
 
-    Use Streaming Data Visualiser.ipynb to generate:
+    Use [Streaming Data Visualiser.ipynb](./Streaming%20Data%20Visualiser.ipynb) to generate:
      - Line graphs of climate data over time.
      - Bar charts and maps for fire data analysis.
 
